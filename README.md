@@ -1,8 +1,8 @@
-🇬🇧 **English (UK)** | [🇧🇷 Português (Brasil)](README.pt-BR.md)
+<img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK"> **English (UK)** | [<img src="https://flagcdn.com/w20/br.png" width="20" alt="Brasil"> Português (Brasil)](README.pt-BR.md)
 
 # Hi there! 👋 I'm Nickolas
 
-🇧🇷 I'm 29 years old and originally from São Paulo, Brazil.
+<img src="https://flagcdn.com/w20/br.png" width="20" alt="Brasil"> I'm 29 years old and originally from São Paulo, Brazil.
 
 🚀 My goal is to become a software developer.
 
@@ -22,7 +22,7 @@ An Excel/VBA tool that reads operational reports and prepares logistics notices 
 
 ## 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8A3D?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/nickolas-candido/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/nickolas-candido/)
 
 ## 📊 GitHub stats
 
