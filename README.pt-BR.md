@@ -1,8 +1,8 @@
-[🇬🇧 English (UK)](README.md) | 🇧🇷 **Português (Brasil)**
+[<img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK"> English (UK)](README.md) | <img src="https://flagcdn.com/w20/br.png" width="20" alt="Brasil"> **Português (Brasil)**
 
 # Olá! 👋 Sou o Nickolas
 
-🇧🇷 Tenho 29 anos e sou natural de São Paulo, Brasil.
+<img src="https://flagcdn.com/w20/br.png" width="20" alt="Brasil"> Tenho 29 anos e sou natural de São Paulo, Brasil.
 
 🚀 Meu objetivo é me tornar desenvolvedor de software.
 
@@ -22,7 +22,7 @@ Uma ferramenta em Excel/VBA que lê relatórios operacionais e prepara comunicad
 
 ## 🤝 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8A3D?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/nickolas-candido/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/nickolas-candido/)
 
 ## 📊 Estatísticas do GitHub
 
